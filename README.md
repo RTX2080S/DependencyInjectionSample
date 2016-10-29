@@ -1,4 +1,4 @@
-# DependencyInjectionSample
+# Dependency Injection Sample
 Dependency Injection Sample Code in C#
 
 To read more, see the beginner's tutorial on Dependency Injection here:
